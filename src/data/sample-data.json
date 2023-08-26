@@ -1,0 +1,92 @@
+{
+"coverage": {
+    "installers": [
+        {
+            "installer1": {
+                "postcode": [
+                    {"code":"SW1A 1AA","radius": 40}
+                ],
+                "chargers": ["Easee One", "Ohme Home Pro", "Indra Smart Pro"]
+            }
+        }, 
+        {
+            "installer2": {
+                "postcode":[
+                    {"code":"SW1A 1AB","radius": 30},
+                    {"code":"EC1A 1BB","radius": 40},
+                    {"code":"SW1A 1BB","radius": 50}
+                ],
+                "chargers": ["Mini Pro3", "Ohme Epod", "Zappi 2.1", "Wallbox Pulsar Plus"]
+            }
+        },
+        {
+            "installer3": {
+                "postcode":[
+                    {"code":"W1A 1HQ","radius": 30},
+                    {"code":"W1A 3AE","radius": 60},
+                    {"code":"W1A 3AA","radius": 50}
+                ],
+                "chargers": ["Easee One", "Indra Smart Pro", "Zappi 2.1"]
+            }
+        },
+        {
+            "installer4": {
+                "postcode":[
+                    {"code":"NW1W 6AA","radius": 30},
+                    {"code":"NW1W 6AB","radius": 60},
+                    {"code":"NW1W 6AG","radius": 50}
+                ],
+                "chargers": ["Mini Pro3", "Ohme Epod", "Wallbox Pulsar Plus"]
+            }
+        },
+        {
+            "installer5": {
+                "postcode": [
+                    {"code":"SE1 9GF","radius": 80}
+                ],
+                "chargers": ["Easee One", "Indra Smart Pro", "Zappi 2.1", "Wallbox Pulsar Plus"]
+            }
+        },
+        {
+            "installer6": {
+                "postcode": [
+                    {"code":"SW1V 2SA","radius": 80}
+                ],
+                "chargers": ["Mini Pro3", "Ohme Home Pro", "Indra Smart Pro", "Zappi 2.1"]
+            }
+        },
+        {
+            "installer7": {
+                "postcode": [
+                    {"code": "EC2A 4BX","radius": 100}
+                ],
+                "chargers": ["Easee One", "Ohme Home Pro", "Wallbox Pulsar Plus"]
+            }
+        },
+        {
+            "installer8": {
+                "postcode": [
+                    {"code": "W1G 9RJ","radius": 150}
+                ],
+                "chargers": ["Mini Pro3", "Indra Smart Pro", "Zappi 2.1"]
+            }
+        },
+        {
+            "installer9": {
+            "postcode": [
+                {"code": "NW1 4RY","radius": 150}
+            ],
+            "chargers": ["Easee One", "Ohme Epod", "Zappi 2.1", "Wallbox Pulsar Plus"]
+            }
+        },
+        {
+            "installer10": {
+                "postcode": [
+                    {"code": "SE1 7PB","radius": 150}
+                ],
+                "chargers": ["Mini Pro3", "Ohme Home Pro", "Indra Smart Pro"]
+            }
+        }
+    ]
+    }
+}
