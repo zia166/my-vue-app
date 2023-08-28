@@ -21,4 +21,5 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Check out our project website hosted on GitHub Pages: [Click here](https://zia166.github.io/my-vue-app/index.html)
+
